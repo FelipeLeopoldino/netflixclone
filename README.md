@@ -1,8 +1,8 @@
-<a href='https://weather-app-felipeleopoldino.netlify.app/'>Weather app</a>
+<a href='https://clone-netflix-felipeleopoldino.netlify.app/'>Clone Netflix</a>
 
 ## 💻 Clone Netflix
 
-Clone Netflix, designer 2020.
+Clone interface da  Netflix, designer 2020.
 Colocando em pratica os aprendizados em React.
 
 
