@@ -14,6 +14,8 @@ Colocando em pratica os aprendizados em React.
 
 - [x] **JavaScript**.
 
+- [x] **Reactjs**.
+
 - [x] **Css**.
 
 ## Proximas Atualizações
